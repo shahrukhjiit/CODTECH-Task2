@@ -8,7 +8,7 @@ Welcome to the Todo App project! This application allows users to manage their t
 
 - **Name**: Shahrukh Khan
 - **Company Name**: CodeTech IT Solutions
-- **ID**: CTO8WD972
+- **ID**: CT08WD972
 - **Domain**: Web Development
 - **Duration**: 6 Weeks (June to July 2024)
 - **Mentor**: Sravani Gouni
